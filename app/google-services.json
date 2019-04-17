@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "940667486941",
+    "firebase_url": "https://dumpster-4b922.firebaseio.com",
+    "project_id": "dumpster-4b922",
+    "storage_bucket": "dumpster-4b922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940667486941:android:7f9fe77a6c36cf5a",
+        "android_client_info": {
+          "package_name": "com.example.dumpsternew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940667486941-nr419i2cjukj4btt36q6sq5f37f3ilrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dumpsternew",
+            "certificate_hash": "d7d0dc9c3706a4ed95ea2dc7fbe966ac7ae331ff"
+          }
+        },
+        {
+          "client_id": "940667486941-q796u14i3febqfsc51i15h09t8qfv3if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZJLH1XgMnG5TKKLtmnUfmad-te7zUdHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940667486941-q796u14i3febqfsc51i15h09t8qfv3if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
